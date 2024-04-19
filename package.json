@@ -15,6 +15,7 @@
     "format:staged": "prettier --write",
     "start": "react-scripts start",
     "test": "react-scripts test"
+    "dev": "next dev"
   },
   "dependencies": {
     "@carbon/react": "1.32.0",
